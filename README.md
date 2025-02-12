@@ -42,3 +42,9 @@ Main Execution (main())
 Prompts the user to enter the CSV file path.
 Checks if the file exists before proceeding.
 Calls all functions to read, analyze, visualize, and generate the final PDF report.
+
+*OUTPUT*
+CSV file used for making the report:
+[Feedback.csv](https://github.com/user-attachments/files/18771601/Feedback.csv)
+
+Report generated:
